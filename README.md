@@ -1,2 +1,2 @@
-# hs_proj_minesweeper
-Minesweeper project for hyperskill.org
+# Minesweeper
+Minesweeper project for https://hyperskill.org
